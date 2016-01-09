@@ -5,7 +5,7 @@ tags: work
 comments: false
 layout: post
 photos: 
-- flickr 24167182202 m
+  - flickr 24167182202 m
 ---
 
 toto je maly testik
