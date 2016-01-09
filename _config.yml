@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Krytof Stupka
+title: Krystof Stupka
 subtitle: portfolio
 description: what i do and think
 author: Krystof Stupka
@@ -73,4 +73,5 @@ flickr_api_key: 4fd2db24244ed1e68731850f844d683d
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: git@github.com:krystufeks/krystufeks.github.io.git
