@@ -1,0 +1,39 @@
+bootswatch: flatly
+
+slogan: "A bootswatch theme."
+
+menu:
+  - title: About
+    url: about
+    intro: ""
+  - title: Blog
+    url: tags/blog
+    intro: ""
+  - title: Photos
+    url: photos
+    intro: ""
+  - title: Work
+    url: tags/work
+    intro: ""
+  - title: Resume
+    url: resume
+    intro: ""
+
+links:
+  - title: Freemind
+    url: https://github.com/yieme/freewill/
+    intro: "Freewill's Github repository."
+    icon: "fa fa-github"
+  - title: "My Github"
+    url: http://www.github.com/yieme
+    intro: "My Github account."
+    icon: "fa fa-github"
+
+widgets:
+- hoho
+
+
+rss: true
+fancybox: false
+favicon: favicon.png
+google_analytics:
