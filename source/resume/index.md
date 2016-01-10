@@ -3,7 +3,7 @@ title: Resume
 comments: false
 layout: page
 photos:
-  - flickr circle 24273714736 q
+  - flickr [class1] 24273714736 q
 ---
 
 
