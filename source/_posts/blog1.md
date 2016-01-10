@@ -2,13 +2,15 @@
 title: The rider and the elephant
 tags: blog
 comments: false
+template: post
 ---
 
 ### Life happens now
 
 
 
-When we are procrastinating we can not make ourselves able to fulfil commitments; we end up doing unnecessary things, instead of doing something really meaningful. According to the Oxford Dictionary, procrastination means a delay in completing an action, while for many scientists procrastination can mean the pathological postponement.
+
+When we are procrastinating we can not make ourselves able to fulfill commitments; we end up doing unnecessary things, instead of doing something really meaningful. According to the Oxford Dictionary, procrastination means a delay in completing an action, while for many scientists procrastination can mean the pathological postponement.
 
 The behaviour has always been a feature of human beings for ages as it can be proved by word's Latin origin. One of the first writers and thinkers tackling the issue was Seneca, a Roman Stoic philosopher. In his speeches, he was mainly focusing on time and its management. This was a very uncommon subject in Ancient Rome since only the richest had the opportunity to lose time. In comparison, nowadays, more than 80% of people procrastinate every day. This number came from a big joint survey of Ivy League universities, where they questioned more than five thousand people. Plus, the surveyors admitted that the number is probably even higher because of the bad introspection people have. So let's admit it, everyone procrastinates.
 
