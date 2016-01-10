@@ -3,6 +3,8 @@ title: Unexpected encounter with a well-known human being.
 tags: blog
 comments: false
 template: post
+photos: 
+  - flickr 23922963269 s
 ---
 
 ### Say no to devil

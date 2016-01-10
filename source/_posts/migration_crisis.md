@@ -4,6 +4,8 @@ date: 09-09-15
 tags: blog
 comments: false
 template: post
+photos: 
+  - flickr 23995231740 s
 ---
 
 European migration crisis, a slogan that is filling headlines of all the newspapers since the beginning of the year, yet, even more in the last few months. The Europe we know today has been historically shaped by migration. Yet, in 2014 an alarming 59.5 million people were displaced around the world. According to the UN Refugee Agency, more than 51% of the displaced people were relocated to Europe. This great influx of refugees was mostly triggered by the situation in the Middle East, Ukraine, the Mediterranean-African area and Eritrea. The European economic situation, not yet fully rehabilitated from the EURO crisis faces a new economic challenge - ensure a future for millions of people crossing its borders.

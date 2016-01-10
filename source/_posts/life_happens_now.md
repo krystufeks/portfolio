@@ -4,7 +4,7 @@ tags: blog
 comments: false
 template: post
 photos: 
-- flickr 9528576237 s
+  - flickr 9528576237 s
 ---
 
 ### Life happens now
