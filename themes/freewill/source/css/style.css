@@ -1,6 +1,10 @@
 /* =============================================================================
    Body and structure
    ========================================================================== */
+html {
+  position: relative;
+  min-height: 100%;
+}
 
 body {
   position: relative;
@@ -9,7 +13,16 @@ body {
   background-repeat: repeat-x;
   background-position: 0 40px;
   padding-bottom: 70px;
+  margin-bottom: 60px;
 }
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+}
+
 
 .content {
   padding: 20px;
@@ -126,20 +139,6 @@ li i {
   width: 100%;
 }
 
-.archive-title:before {
-  font-family: FontAwesome;
-  content: '\f187  ';
-}
-
-.archive-title-tag:before {
-  font-family: FontAwesome;
-  content: '\f02c  ';
-}
-
-.archive-title-category:before {
-  font-family: FontAwesome;
-  content: '\f07b  ';
-}
 
 /* =============================================================================
    img

@@ -2,7 +2,6 @@
 title: The rider and the elephant
 tags: blog
 comments: false
-template: page
 ---
 
 ### Life happens now
