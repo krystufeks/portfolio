@@ -67,6 +67,8 @@ theme: freewill
 
 plugins:
   - hexo-tag-flickr
+  - hexo-generator-cname
+
 
 flickr_api_key: 4fd2db24244ed1e68731850f844d683d
 

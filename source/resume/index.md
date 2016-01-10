@@ -2,26 +2,29 @@
 title: Resume
 comments: false
 layout: page
+photos: 
+  - flickr 9528576237 m
 ---
 ## Volunteer placements:
 
-#### European Youth Parliament CZ
-Coordinator for Finance - since 2015 (current)
-Coordinator for Fundraising - 2014 to 2015
-Active member - since 2013 (current)
-#### European Youth Parliament International
-Active member - since 2013 (current)
-List of EYP Conferences I attended (link)
-
-#### Asistence o.s.
-Registered volunteer: since 2013 (current)
-Active in volunteering 2013 - 2014
+#### [European Youth Parliament CZ](http://eyp.cz/en/)
+- Coordinator for Finance - since 2015 (current)
+- Coordinator for Fundraising - 2014 to 2015
+- Active member - since 2013 (current)
+  
+#### [European Youth Parliament International](http://eyp.org/)
+- Active member - since 2013 (current)
+- List of EYP Conferences I attended (link)
+  
+#### [Asistence o.s.](http://asistence.org/)
+- Registered volunteer: since 2013 (current)
+- Active in volunteering 2013 - 2014
 
 
 ## Education
 #### Think Global School
 Student - the year of 2017 (current)
-World’s first traveling high school
+World’s first traveling high school circus
 Travels: UK, Sweden
 IB: Biology, English, History, Math, Mother Tongue (Czech), Anthropology
 

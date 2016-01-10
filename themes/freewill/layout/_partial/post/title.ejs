@@ -17,7 +17,7 @@
   <!-- display as page -->
 		<div class="page-header">
 			<h1> <% if (item.page_title) { %><%= item.page_title %><% }else{ %><%= item.title %><% } %></h1>
-			<span class="text-muted"><small> <%= item.date.format(config.date_format) %> </small></span>
+			<% if (post) { %><span class="text-muted"><small> <%= item.date.format(config.date_format) %> </small></span><% }%>
 		</div>
 	<% } %>
 <% } %>
