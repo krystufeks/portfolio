@@ -1,8 +1,11 @@
 ---
 title: European Youth Parliament
+date: 01-01-16
 tags: work
 comments: false
-template: post
+template: page
+photos:
+  - flickr 24311397895 s
 ---
 ##### Coordinator for Finance - since 2015 (current)
 ##### Coordinator for Fundraising - 2014 to 2015

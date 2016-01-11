@@ -3,21 +3,21 @@ title: Resume
 comments: false
 layout: page
 photos:
-  - flickr [class1] 24273714736 q
+  - flickr 24273714736 q
 ---
-
+{% flickr img-circle 24273714736 q %}
 
 ## Education
 
 #### [Think Global School](http://thinkglobalschool.org/)
-Student - the year of 2017 (current)
-World’s first traveling high school circus
-Travels: UK, Sweden
-IB: Biology, English, History, Math, Mother Tongue (Czech), Anthropology
+- Student - the year of 2017 (current)
+- World’s first traveling high school circus
+- My travels with TGS: UK, Sweden
+- IB: Biology, English, History, Math, Mother Tongue (Czech), Anthropology
 
 #### [Duhovka High School](http://www.duhovkagymnazium.cz/en/)
-Student - the year of 2018 (outdated)
-Involved in numerous projects (Youth in Action, Comenius Project, DofE)
+- Student - the year of 2018 (outdated)
+- Involved in numerous projects (Youth in Action, Comenius Project, DofE)
 
 
 ## Volunteer placements:
@@ -37,11 +37,11 @@ Involved in numerous projects (Youth in Action, Comenius Project, DofE)
 
 
 ## Skills and interests:
-Overview over the EU affairs
-Concerned about the human rights and law widely
-Leadership skills
-Reading and literature
-Politics and constitutional affairs
-Communication skills
-Time management
-Photography and photo editing
+- Overview over the EU affairs
+- Concerned about the human rights and law widely
+- Leadership skills
+- Reading and literature
+- Politics and constitutional affairs
+- Communication skills
+- Time management
+- Photography and photo editing

@@ -1,8 +1,11 @@
 ---
 title: Short term volunteering placements
+date: 09-09-13
 tags: work
 comments: false
-template: post
+template: page
+photos:
+  - flickr 24203195062 s
 ---
 
 
