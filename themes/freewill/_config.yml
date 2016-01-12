@@ -9,9 +9,6 @@ menu:
   - title: Blog
     url: tags/blog
     intro: ""
-  - title: Photos
-    url: photos
-    intro: ""
   - title: Work
     url: tags/work
     intro: ""
