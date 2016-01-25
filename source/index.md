@@ -1,5 +1,5 @@
 layout: page
 ---
 
-## Hi, 
+## Hi,
 my name is Christopher :)
