@@ -5,10 +5,10 @@ layout: page
 photos:
   - flickr 24273714736 q
 ---
-{% flickr img-circle 24273714736 q %}
+{% flickr pull-right 24273714736 n %}
 
 ## Education
-
+img-circle
 #### [Think Global School](http://thinkglobalschool.org/)
 - Student - the year of 2017 (current)
 - World’s first traveling high school circus

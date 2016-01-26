@@ -3,7 +3,7 @@ title: European Youth Parliament
 date: 01-01-16
 tags: work
 comments: false
-template: page
+layout: page
 photos:
   - flickr 24311397895 s
 ---
@@ -16,7 +16,7 @@ The European Youth Parliament (EYP) is a unique educational programme which brin
 I joined the EYP at the age of 15 starting with a small conference in my home country. Since then I have been in the media team and I have vice presided, organized, and chaired. For two years already, I am working as a member of the Finance government for my National Committee - the EYP Czech Republic.
 
 
-### List of conferences <rozbalit>
+### List of conferences
 
 #### Vice President:
 4th Pre round of NSC in Prague - 2015

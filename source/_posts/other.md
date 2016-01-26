@@ -3,7 +3,7 @@ title: Other conferences
 date: 09-09-11
 tags: work
 comments: false
-template: page
+layout: page
 photos:
   - flickr 24228890151 s
 ---
