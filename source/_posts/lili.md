@@ -25,7 +25,7 @@ Ten European countries have joined the project: The Czech Republic, Slovakia, Ge
 - Jaroslav Rudiš
 - Michal Viewegh
 
-##### List of International meetings I have attended
+##### List of International meetings I attended
 
 International meetings were based in six different countries and involved a getting to know culture activities, together with studying nowadays literature and contemporary writers with whom we had always speak.The meetings were a week long student exchanges based on the living in families model.
 
