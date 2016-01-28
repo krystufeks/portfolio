@@ -21,9 +21,9 @@ Ten European countries have joined the project: The Czech Republic, Slovakia, Ge
 ##### List of writers I have interviewed:
 - [Petra Hůlová](http://christopher.cz/2016/01/26/ph/)
 - [Jan Novák](http://christopher.cz/2016/01/28/jn/)
-- [Petr Sís] (http://christopher.cz/2016/01/28/ps/)
+- [Petr Sís](http://christopher.cz/2016/01/28/ps/)
 - [Jaroslav Rudiš](http://christopher.cz/2016/01/28/jr/)
-- [Michal Viewegh] (http://christopher.cz/2016/01/28/mv/)
+- [Michal Viewegh](http://christopher.cz/2016/01/28/mv/)
 
 ##### List of International meetings I attended
 
