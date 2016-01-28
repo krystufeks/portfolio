@@ -15,4 +15,4 @@ Once, a good friend of mine told me that I was like a social butterfly. It was a
 
 If you would ask me what the goal of my life is, my answer would be simple: to find something that fits me and succeed in it! Be active, never expect anything from people around you, be independent, always challenge me and never stop learning.
 
-{% flickr 24192820271 - %}
+{% flickr pull-right 24192820271 - %}
