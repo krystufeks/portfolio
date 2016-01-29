@@ -9,7 +9,6 @@ photos:
 ---
 
 {% flickr pull-right 24041143614 - %}
-
 #### Coordinator for Finance - since 2015 (current)
 #### Coordinator for Fundraising - 2014 to 2015
 
@@ -37,5 +36,3 @@ I joined the EYP at the age of 15 starting with a small conference in my home co
 -  The Energy Union of the European Union
 -  EU constitutional affairs
 -  EU institutions
-
-{% flickr 24575829501 o %}
