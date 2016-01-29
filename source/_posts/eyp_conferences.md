@@ -26,12 +26,12 @@ International Forum - University Forum Tallinn - 2015
 1st Pre round of NSC in Brno - 2015
 #### Organizer:
 National Selection Conference of the EYP CZ in Zlin - 2015
-{% flickr pull-right 24669317485 - %}
 #### Participant:
 Training for new members and for EYP Day Chairs - 2014
 #### Delegate:
 Czech Forum Znojmo - 2013
 Pre-rounds of the National Selection Conference of the EYP CZ - 2014
+{% flickr pull-right 24669317485 - %}
 National Selection Conference of the EYP CZ - 2014
 Regional Selection Conference of EYP Germany in Ahaus - 2014
 International Forum - European Forum Podebrady - 2014
