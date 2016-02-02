@@ -3,7 +3,7 @@ title: Unexpected encounter with a well-known human being.
 tags: blog
 comments: false
 template: post
-photos: 
+photos:
   - flickr 23922963269 s
 ---
 

@@ -18,12 +18,12 @@ I joined the EYP at the age of 15 starting with a small conference in my home co
 
 {% flickr pull-right 24041181084 - %}
 
-#### Highlighted conferences I attended:
+#### Highlighted EYP conferences I have attended:
 - Jury Member in RS Carinthia
 - Chaiperson in Lviv International Forum of EYP Belarus - 2015
 
 
-#### [Complete list of conferences I have attended](http://christopher.cz/eyp_conferences/)
+#### [Complete list of EYP conferences](http://christopher.cz/eyp_conferences/)
 
 ##### My main areas of expertise:
 

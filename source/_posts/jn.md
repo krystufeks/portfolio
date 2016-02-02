@@ -5,6 +5,7 @@ layout: page
 ---
 Jan Novák is a CzechAmerican writer, translator and filmmaker. The author of novels Million Dollar Jeep, The Grand Life, Grandpa, Alaska, and the impressive “true novel” So Far So Good, documenting the story and anti-communist resistance of the Mašín brothers. Jan Novák cooperated with the director Miloš Forman on the film Valmont as well as his autobiography What Do I Know? He has also written screenplays for films The Wonderful Years of Lousy Living and Broken Promise, translated Václav Havel’s screenplays and made documentaries about him called Citizen Havel Goes on Vacation and Citizen Havel is Rolling Barrels. Hot and Cold in Chicago is his newest book and Guns, Pucks, Beer and Dogs subtitled Documentary Comedy about Army Hockey in Socialism is his newest film. Jan Novák lives alternately in Prague and Chicago.
 
+{% flickr pull-right 24147438234 - %}
 
 ##### A message Jan wrote to us:
 

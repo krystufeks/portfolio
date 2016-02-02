@@ -11,7 +11,7 @@ photos:
 ### Literature live
 In September 2013 two-year long international project Literature live has begun, its author and organizer is Gymnasium Duhovka, and I had the honor to be the student coordinator of the project of the Czech Republic. The project focuses on Czech and world literature, active reading, it supports student’s interest in culture and arts, and it is based on the individual student’s work.
 Ten European countries have joined the project: The Czech Republic, Slovakia, Germany, Hungary, Italy, Romania, Poland, Lithuania, Estonia, and Turkey. Its concept bases on discussions with contemporary writers and poets. These debates are organised by students themselves, supported by teachers. Within the project, 60 discussions with authors from all countries involved in it will be held, and students will attend six international meetings. The language of communication is English. This project is unique not only by many countries involved in it, but also because it is formally supported by the Czech Center of the International PEN Club associating the Czech authors, and by the Municipal Library Prague. Students from 14 to 19 years participate it the project.
-
+{% flickr pull-right 24407918689 - %}
 #### Outcomes of the project:
 
 ##### [Book of fairytales written by the students](http://www.duhovkagymnazium.cz/data/2015/09/20/19/lili_fairytales.pdf)
