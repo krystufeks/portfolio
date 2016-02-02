@@ -19,11 +19,11 @@ Ten European countries have joined the project: The Czech Republic, Slovakia, Ge
 - I had the opportunity to be one of the co-authors of the fairytales book, and I was the only student from all the students involved in the project that has visited all the international meetings and has moderated all the meeting with authors held in his own country.
 
 ##### List of writers I have interviewed:
-- [Petra Hůlová](http://christopher.cz/2016/01/26/ph/)
-- [Jan Novák](http://christopher.cz/2016/01/28/jn/)
-- [Petr Sís](http://christopher.cz/2016/01/28/ps/)
-- [Jaroslav Rudiš](http://christopher.cz/2016/01/28/jr/)
-- [Michal Viewegh](http://christopher.cz/2016/01/28/mv/)
+- [Petra Hůlová](http://christopher.cz/ph/)
+- [Jan Novák](http://christopher.cz/jn/)
+- [Petr Sís](http://christopher.cz/ps/)
+- [Jaroslav Rudiš](http://christopher.cz/jr/)
+- [Michal Viewegh](http://christopher.cz/mv/)
 
 ##### List of International meetings I attended
 

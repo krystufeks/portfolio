@@ -23,7 +23,7 @@ I joined the EYP at the age of 15 starting with a small conference in my home co
 - Chaiperson in Lviv International Forum of EYP Belarus - 2015
 
 
-#### [Complete list of conferences I have attended](http://christopher.cz/2011/01/01/eyp_conferences/)
+#### [Complete list of conferences I have attended](http://christopher.cz/eyp_conferences/)
 
 ##### My main areas of expertise:
 
