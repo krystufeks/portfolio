@@ -3,9 +3,9 @@ title: About
 layout: page
 comments: false
 ---
-#### World Traveller | ENTJ | 18 years old | Student at Think Global School
+#### World Traveller | 18 years old | Student at Think Global School
 
-##### Currently based in Peru
+##### Based in Peru
 ##### Native to Prague
 
 {% flickr pull-right 24192820271 - %}
