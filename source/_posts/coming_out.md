@@ -7,8 +7,10 @@ template: post
 photos:
   - flickr 24257730199 s
 ---
-## Highlighting the impact homophobia can have on an individual
+### Highlighting the impact homophobia can have on an individual
 ###### The story is based in London
+
+
 
 Nicki Minaj’s latest song is on high in my earphones, and in the best part of it I suddenly cannot hear anything. The train is coming. "Please mind the gap between the train and the platform”,- that is the only thing I catch over the sound of the song. People exit, and I enter. Usually when I am in the underground, I observe people around me, evaluate their appearance, and try to imagine what their lives might be like. Yet today, the only thing I can do is to try not to think about anything.
 
@@ -23,3 +25,6 @@ Next station I need to get out. My friend, Daniel, is probably already waiting t
 I laugh and explain to him what happened today and I know that on our way to the vibrant Soho he will listen to everything I need to say.
 
 
+
+
+- this story was published in [World Student Magazine 4](https://cloud.3dissue.com/2389/3124/88194/worldstudent4/index.html)
