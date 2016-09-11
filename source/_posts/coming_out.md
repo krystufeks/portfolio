@@ -21,3 +21,5 @@ I play the song again from the start. And while Nicki Minaj is rapping, my mind 
 Next station I need to get out. My friend, Daniel, is probably already waiting there, in his favorite corner, of our dearest St Christopher's Place, drinking a coffee and reading a book. Imagining him sitting there alone gives me another few minutes of a thought-free mind; this time fully focused on what is about to come. When I am conscious again, I am jumping into the warmest hug in the world, into his big hands that he protectively puts around me. With his eyebrows up and smile on he takes my hand and looks at it and then at me. I follow his eyes and there on my right hand is with small neat handwriting written “I am gay, I am human”.
 
 I laugh and explain to him what happened today and I know that on our way to the vibrant Soho he will listen to everything I need to say.
+
+
