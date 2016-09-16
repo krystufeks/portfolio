@@ -8,7 +8,7 @@ comments: false
 ##### Based in Peru
 ##### Native to Prague
 
-{% flickr pull-right 24192820271 - %}
+{% flickr pull-right 29430368260 - %}
 
 Born in Prague, the heart of Europe, I got the possibility to travel around and to experience new coulters since a very young age. I was raised in a tolerant, liberal catholic family and when I lived in Prague I was known to be one of the most pro-active students.
 

@@ -3,9 +3,9 @@ title: Resume
 comments: false
 layout: page
 photos:
-  - flickr 24273714736 q
+  - flickr 29427077790 q
 ---
-{% flickr pull-right 24273714736 n %}
+{% flickr pull-right 29427077790 n %}
 
 ## Education
 
